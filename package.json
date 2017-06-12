@@ -1,0 +1,17 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duplicate-search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "node-dir": "^0.1.16",
+    "treeify": "^1.0.1",
+    "yargs": "^7.0.1"
+  }
+}
