@@ -21,7 +21,7 @@
 ▸ Traverses all sub-directories
 ▸ Prints out all filenames (full-path) that are duplicates of each other.
 
-# How to Run ?
+# HOW TO RUN ?
 1) First, clone this repository to your appropriate directory.
 2) Make sure you have a latest Node.JS installed on the system.
 3) Go till the root directory ./DuplicateDetector-SHA256CryptoHash in command prompt and type npm install --save to install all required npm modules.
